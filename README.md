@@ -42,7 +42,7 @@
    <a href="https://instagram.com/bielvieirav/" alt="Instagram">
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812069757583440/instagram.png"/></a>
   
-   <a href="https://www.linkedin.com/https:/gabriel-victor-a628a5225/" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/gabriel-victor-/" alt="Linkedin">
   <img height="30" width="30" src="https://cdn.discordapp.com/attachments/696749484012601344/899812823943741490/linkedin_1.png" /></a>                                                                                                                                            
    
   <a href="mailto:gabrielestudos833@gmail.com" alt="Gmail">
