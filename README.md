@@ -32,6 +32,7 @@
 
  <p>
   <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+   <img align="center" alt="eclipse" height="50" width="50" src="https://cdn.discordapp.com/attachments/696749484012601344/908911854355632198/kisspng-eclipse-foundation-integrated-development-environm-eclipse-5ac24212bdda89.2215472915226803387777.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
  </p>
  
