@@ -27,3 +27,12 @@
  </p>
  
  <br/>
+
+  > <img align="center" alt="tools" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899806226026754068/tools.png"> My tools
+
+ <p>
+  <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+ </p>
+ 
+ <br/>
