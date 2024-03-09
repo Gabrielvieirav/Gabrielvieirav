@@ -53,8 +53,6 @@
       </sub>
       </a>
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="https://spring.io/projects/spring-boot">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring icon"/><br/>
@@ -85,4 +83,5 @@
         </sub>
       </a>
     </td>
+  </tr>
 </table>
