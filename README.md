@@ -33,6 +33,16 @@
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://v2.tailwindcss.com/docs">
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="65px" alt="Tailwind icon"/><br/>
+        <sub>
+          <b>
+            <pre>Tailwind</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://learn.microsoft.com/pt-br/dotnet/">
         <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="C# icon"/><br/>
