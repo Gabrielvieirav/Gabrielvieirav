@@ -6,6 +6,7 @@
 
 <!--   📊stats   -->
 -   🖥️ GitHub Profile Stats
+-   <h2> 📊 Github Stats </h2>
 
 <div align="center">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=Gabrielvieirav&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
