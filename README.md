@@ -5,8 +5,6 @@
 -   👨🏽‍💻 Systems Analysis and Development
 
 <!--   📊stats   -->
-<h2> 📊 Github Stats </h2>
-
 -   🖥️ GitHub Profile Stats
 
 <div align="center">
