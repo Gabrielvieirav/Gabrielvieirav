@@ -63,14 +63,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://spring.io/projects/spring-boot">
-        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring icon"/><br/>
-        <sub>
-          <b>
-            <pre>Spring</pre>
-          </b>
-        </sub>
-      </a>
+      
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/pt-br/dotnet/">
